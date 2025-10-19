@@ -1,7 +1,7 @@
 ### <div align="center">Hello World!👋👻  I'm asleepdoggy👾</div>  
   
 
-- 🔭 I’m currently working on developing a game engine
+- 🔭 I’m currently working on a game jam
   
 
 - 🌱 I’m currently learning computing network  
