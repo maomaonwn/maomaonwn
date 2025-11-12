@@ -1,10 +1,10 @@
 ### <div align="center">Hello World!👋👻  I'm asleepdoggy👾</div>  
   
 
-- 🔭 I’m currently working on a game jam
+- 🔭 I’m currently working on an interesting Unity project related to combat
   
 
-- 🌱 I’m currently learning computing network  
+- 🌱 I’m currently learning Operating System
   
 
 - 😽 and nice to meet you  
