@@ -11,7 +11,7 @@
 
 ### My Bloggings
 
-Welcome!!💗 [maomao's Web](https://maomaoovo.com)
+Welcome!!💗 [maomao's Web](https://maomaoovo.pages.dev)
 
 
 <br/>  
